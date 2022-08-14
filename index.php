@@ -78,10 +78,7 @@ border: 1px solid rgba( 255, 255, 255, 0.18 );
       				            	<br>
       				            	<h2 style="color: #fff;">Search for properties:</h2>
                                     <form action="search.php" method="post">
-                                    	
-                                    
-                                    <h6 class="text_p">Keyword</h6>
-                                    <input type="text" name="key" placeholder="Any" class="form-control rounded-pill">
+                                
 
                                     <h6 class="text_p">Property status</h6>
                                     <select name="p_status" class="form-control rounded-pill">

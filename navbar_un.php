@@ -79,9 +79,7 @@
    <li class="nav-item">
     <a class="nav-link nav_text" href="Admin/Regi/log.php">Log In</a>
   </li>
-        <li class="nav-item dropdown">
-        	<a href="Admin/Regi/log.php"><button type="button" class="btn btn-dark rounded-pill add_button">Add Property</button></a>
-        </li>
+        
 </ul>
     </div>
     

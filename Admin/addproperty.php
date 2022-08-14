@@ -2,13 +2,13 @@
 
 session_start();
 
-if ($_SESSION['email'] == true) 
+if ($_SESSION['email'] == true && $_SESSION['email']=='joshikhagendra83@gmail.com') 
 {
 	 $_SESSION['email'];
 }
 else
 {
-	header("location:Regi/log.php");
+	header("location: index.php");
 }
 
 ?>

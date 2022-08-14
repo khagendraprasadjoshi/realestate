@@ -16,8 +16,6 @@
 		<div class="col-md-12">
 			
 			<h2 class="text-primary">Welcome!</h2>
-
-			<h5 style="font-size: 18px; margin-top: 17px;">Get Home real estate agency was founded ten years ago, helping thousands of people since then find their dream rental or buy a perfect new home!</h5>
 <br>
              <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
@@ -71,21 +69,7 @@ The best qualities that our clients note they’ve noticed in our agents is thei
 
  <div class="row mt-5">
  	<div class="col-md-3">
- 		<center><h2>300</h2>
-         <h6 class="text-primary">Properties Listed</h6>
- 		</center>
- 	</div>
- 	<div class="col-md-3">
- 		<center><h2>100</h2>
- 		<h6 class="text-primary">Satisfied Clients</h6></center>
- 	</div>
- 	<div class="col-md-3">
- 		<center><h2>200</h2>
- 		<h6 class="text-primary">Properties Sold</h6></center>
- 	</div>
- 	<div class="col-md-3">
- 		<center><h2>4000</h2>
- 		<h6 class="text-primary">Days we are here</h6></center>
+ 		
  	</div>
  </div>
 

@@ -29,8 +29,6 @@ else
 		<div class="col-md-12">
 			
 			<h2 class="text-primary">Welcome!</h2>
-
-			<h5 style="font-size: 18px; margin-top: 17px;">Get Home real estate agency was founded ten years ago, helping thousands of people since then find their dream rental or buy a perfect new home!</h5>
 <br>
              <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
@@ -63,7 +61,7 @@ else
  <div class="row mt-4">
  	<div class="col-md-4">
  		<h2 class="text-primary">About Us</h2>
- 		<h6>We’re very passionate about searching for only the best properties on the market and offering them to our clients. While our agents are working in 50 US states, we also partially cover Canada and northern Mexican states… Our extended team of more than 300 professional, dedicated real estate agents is waiting for a chance to be helpful to your cause, whether it’s a summer rental search in Vermont or a purchase & mortgage of a Nebraskan 3-storey house at the lakeside… So we’re sure that whatever type of property you’re searching for, we’ll be the agency to get it found, checked and offered for you!</h6>
+ 		<h6>We are Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi hic tempora, vero animi amet officia doloremque quidem quia, consectetur quos molestias aliquam autem necessitatibus maxime deserunt commodi distinctio ullam. Cumque.</h6>
  	</div>
  	<div class="col-md-4">
  		<h2 class="text-primary">Our team</h2>
@@ -76,29 +74,6 @@ The best qualities that our clients note they’ve noticed in our agents is thei
  	<div class="col-md-4">
  		<h2 class="text-primary">CEO</h2>
  		<h6>Has been with us from the head start. He manages all our agents, property listings and the overall engagement of our rent & sell agency across the US. Previously he was a part of FannieMae’s mortgage department, serving as the head of its North Western operations…</h6>
- 	</div>
- </div>
-
-
-
-
- <div class="row mt-5">
- 	<div class="col-md-3">
- 		<center><h2>300</h2>
-         <h6 class="text-primary">Properties Listed</h6>
- 		</center>
- 	</div>
- 	<div class="col-md-3">
- 		<center><h2>100</h2>
- 		<h6 class="text-primary">Satisfied Clients</h6></center>
- 	</div>
- 	<div class="col-md-3">
- 		<center><h2>200</h2>
- 		<h6 class="text-primary">Properties Sold</h6></center>
- 	</div>
- 	<div class="col-md-3">
- 		<center><h2>4000</h2>
- 		<h6 class="text-primary">Days we are here</h6></center>
  	</div>
  </div>
 
