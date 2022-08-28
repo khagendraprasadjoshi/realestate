@@ -159,39 +159,7 @@ $run = mysqli_query($conn,$sql);
 while ($row = mysqli_fetch_array($run)) 
 {
 	
-?>
 
-		<div class="col-md-6">
-			<img src="../Image/<?php echo $row['img_1']; ?>" style="width: 100%; height: 400px; border-radius: 10px 10px 0px 0px;">
-			<div class="card" style="border-radius: 0px 0px 10px 10px;">
-				<div class="card-body">
-					<a style="text-decoration: none;" href="view_property.php?id=<?php echo $row['id']; ?>"><h2 style="white-space: nowrap; width: 100%; color: #111; overflow: hidden; text-overflow: ellipsis;"><?php echo $row['title'] ?></h2></a>
-					<h3 class="text-primary">&#x20B9;<?php echo $row['price'] ?></h3>
-					<a href="view_property.php?id=<?php echo $row['id']; ?>"><input type="button" name="" value="Read More" class="btn btn-dark rounded-pill " style="width: 150px;"></a>
-				</div>
-			</div>
-		</div>
-		
-	<?php } ?> 
-	</div>
-</div>
-
-
-
-
-
-<div class="container mt-5">
-	<div class="row">
-		<?php
-
-include '../db_conn.php';
-
-$sql = " select * from addproperty ";
-
-$run = mysqli_query($conn,$sql);
-
-while ($row = mysqli_fetch_array($run)) 
-{
 	
 ?>
 

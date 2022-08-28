@@ -61,19 +61,17 @@ else
  <div class="row mt-4">
  	<div class="col-md-4">
  		<h2 class="text-primary">About Us</h2>
- 		<h6>We are Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi hic tempora, vero animi amet officia doloremque quidem quia, consectetur quos molestias aliquam autem necessitatibus maxime deserunt commodi distinctio ullam. Cumque.</h6>
+ 		<h6>We are above all else advertisers who are enthusiastic about helping independent companies use innovation to grow their associations. While we have both worked quickly in the property the board business we are not property managers.
+
+That said we have been lowered with the inviting soul and nature of polished skill that exists inside this industry. We are regarded to serve the property the board business and anticipate conveying proceeding with results for our customers..</h6>
  	</div>
  	<div class="col-md-4">
  		<h2 class="text-primary">Our team</h2>
- 		<h6>We’ve got more than 300 dedicated, professional real estate agents constantly looking for newer, better properties in all the 50 states…<br><br>
-
-On average, each of our agents has more than 100 homes successfully sold and more than 500 rented out.<br><br>
-
-The best qualities that our clients note they’ve noticed in our agents is their fast pace, trustworthiness, and dedication!</h6>
+ 		<h6>The best qualities that our clients note they’ve noticed in our agents is their fast pace, trustworthiness, and dedication!</h6>
  	</div>
  	<div class="col-md-4">
  		<h2 class="text-primary">CEO</h2>
- 		<h6>Has been with us from the head start. He manages all our agents, property listings and the overall engagement of our rent & sell agency across the US. Previously he was a part of FannieMae’s mortgage department, serving as the head of its North Western operations…</h6>
+ 		<h6>Has been with us from the head start. He manages all our agents, property listings and the overall engagement of our rent & sell agency across the Nepal.</h6>
  	</div>
  </div>
 

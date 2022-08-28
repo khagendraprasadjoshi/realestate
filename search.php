@@ -38,7 +38,7 @@ include 'db_conn.php';
 	$p_type = $_POST['p_type'];
 	$location = $_POST['location'];
 
-    $sql = " select * from addproperty where status = '$p_status' or type = '$p_type' or location = '$location' or title Like '%$key%' ";
+    $sql = " select * from addproperty where status = '$p_status' or type = '$p_type' or address = '$location' or title Like '%$key%' ";
 
     $run = mysqli_query($conn,$sql);
 
